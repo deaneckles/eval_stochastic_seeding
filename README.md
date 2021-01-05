@@ -11,7 +11,7 @@ Some of the analysis depends on data sets not included in this repository. Speci
 
 Three additional datasets of networks are also analyzed peripherally:
 - The network data from the AddHealth study can be obtained by contacting the Carolina Population Center at the University of North Carolina [here](https://www.cpc.unc.edu/).
-- The network data from Banerjee et al. (2013 is available [here](https://web.stanford.edu/~jacksonm/Data.html).
+- The network data from Banerjee et al. (2013) is available [here](https://web.stanford.edu/~jacksonm/Data.html).
 - The network data from Chami et al. (2017) is available [here](https://www.repository.cam.ac.uk/handle/1810/270256).
 
 
