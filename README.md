@@ -23,3 +23,4 @@ To conduct particular analyses in the paper, one should run the following code:
 - `simulations/main_simulations.R`: conducts the simulations reported in the paper and supplement.
 - `simulations/lim_analyze.R` and `simulations/ic_analyze.R`: processes the data from the simulations for the linear-in-means utility model and the independent cascade model, respectively.
 - `ess_table.R`: conducts the effective sample size analysis of multiple collections of networks under the null hypothesis.
+- `simulations/prob_illustration.R`: produces figures illustrating the distribution of seed set probabilities for one village as shown in the paper.
